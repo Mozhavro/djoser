@@ -46,7 +46,7 @@ msgstr ""
 
 #: constants.py:12
 msgid "Invalid password."
-msgstr ""
+msgstr "Ogiltigt lösenord."
 
 #: constants.py:13
 msgid "User with given email does not exist."
